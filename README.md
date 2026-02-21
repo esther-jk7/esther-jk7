@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on erpnext<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about Mobile & Web Application<br>🔭 I’m currently working on Urban Edge Crm Solutions<br>
+>🌱 I’m currently learning Deep Learning<br>💬 Ask me about Mobile & Web Application
 
 
 ## 🌐 Socials:
