@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esther Keerthi</h1>
-<h2 align="center">Software Developer | AI Enthusiast | Creative Innovator</h2>
+<h2 align="center">Machine Learning | AI Enthusiastr</h2>
 
 
 # 💫 About Me:
->🌱 I’m currently learning Deep Learning<br>💬 Ask me about Mobile & Web Application
+>🌱 I’m currently learning Deep Learning<br>💬 
 
 
 ## 🌐 Socials:
