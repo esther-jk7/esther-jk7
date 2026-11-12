@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esther Keerthi</h1>
-<h2 align="center">Machine Learning | AI Enthusiastr</h2>
+<h1 align="center">Hi 👋, I'm Esther </h1>
+<h2 align="center">I build production ML and LLM systems: agentic RAG, MLOps pipelines, and workflow automation.</h2>
 
 
 ## 🌐 Socials:
